@@ -1,4 +1,4 @@
-<h1>Web Application for CSE3400</h1>
+<h1>Web Application for CSE4500</h1>
 <?
    $name = "Matthew De La Cruz";
    echo "Hello ".$name;
