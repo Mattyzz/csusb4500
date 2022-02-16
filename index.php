@@ -23,7 +23,6 @@ $json_data = json_decode($json_file,true);
 <h2>Skills</h2>
 
 <?php foreach($json_data['experience'] AS $experience) { ?>
-<li> 
   <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
     <div class="flex-grow-1">
       <h3 class="mb-0"><?php echo $experience['title']; ?></h3>
@@ -34,7 +33,6 @@ $json_data = json_decode($json_file,true);
       <span class="text-primary"><?php echo $experience['period']; ?></span>
     </div>
   </div>
-</li>
 <?php  } ?>
 
 <h2>Interest</h2>
