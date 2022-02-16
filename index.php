@@ -13,10 +13,11 @@ $json_data = json_decode($json_file,true);
     <?php echo $json_data['first-name']; ?>
     <span class="text-primary"><?php echo $json_data['last-name']; ?></span>
 </h2>
-<h3><?php echo $json_data['address'; ?></h3>
-<h3><?php echo $json_data['phone'; ?></h3>
-<h3><?php echo $json_data['email'; ?></h3>
+<h3><?php echo $json_data['address']; ?></h3>
+<h3><?php echo $json_data['phone']; ?></h3>
+<h3><?php echo $json_data['email']; ?></h3>
 <p><?php echo $json_data['introduction']; ?></p>
+
 <h2>Skills</h2>
 
 <?php foreach($json_data['experience'] AS $experience) { ?>
