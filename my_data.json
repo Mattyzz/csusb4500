@@ -1,0 +1,22 @@
+{
+  "first-name": "Matthew",
+  "last-name": "De La Cruz",
+  "address": "5500 University Pkwy, San Bernardino, CA 92407",
+  "phone": "(123)456-7890",
+  "email": "mdc0195@gmail.com",
+  "introduction": "This is my description!",
+  "experience":[
+    {
+      "title":"IT Help Desk",
+      "employer":"MT. San Antonio College",
+      "period":"September 2021 - Present",
+      "description":"Answering calls and resolving problems from both faculty and students"
+    },
+    {
+      "title":"APPLICATION DEVELOPER",
+      "employer":"CSUSB",
+      "period":"March 2018 - 2021",
+      "description":"A description of your experience with this job."
+    }
+  ]
+}
