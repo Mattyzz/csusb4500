@@ -3,3 +3,5 @@
    $name = "Matthew De La Cruz";
    echo "Hello ".$name;
 ?>
+<h2>Skills</h2>
+<h2>Interest</h2>
