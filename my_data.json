@@ -18,5 +18,16 @@
       "period":"March 2018 - 2021",
       "description":"A description of your experience with this job."
     }
+  ],
+  "interests":[
+      {
+        "hobby":"3D Printing",
+        "description":"Creating 3D printed objects that can be used for cosplay, decoration, repair"
+      },
+      {
+        "hobby":"Animal Care",
+        "description":"I have several fish tanks at home in which I create ecosystems for the inhabitants to live in and have healthy lives. I also own 2 dogs and have owned several cats"
+      }
+
   ]
 }
