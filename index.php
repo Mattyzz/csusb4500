@@ -8,7 +8,7 @@ $json_file = file_get_contents('my_data.json');
 $json_data = json_decode($json_file,true);
 
 ?>
-<!-- Name --!>
+//Name 
 <h2>
     <?php echo $json_data['first-name']; ?>
     <span class="text-primary"><?php echo $json_data['last-name']; ?></span>
